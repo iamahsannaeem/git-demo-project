@@ -1,0 +1,19 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+
+
+
+header{
+  background-color: green;
+  height: 10vh;
+  width: 100%;
+}
+
+main{
+  background-color: rgb(93, 93, 233);
+  height: 90vh;
+  width: 100%;
+}
